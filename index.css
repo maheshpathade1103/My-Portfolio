@@ -7,6 +7,10 @@
 }
 body{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background: linear-gradient(rgba(1,1,1,0.9), rgba(1,1,1,0.9)), url("assets/code.jpg");
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover
 }
 nav{
     background-color: slategray;
