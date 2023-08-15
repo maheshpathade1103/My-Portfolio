@@ -70,3 +70,13 @@ a.active, a:hover{
     height: 40px;
 }
 
+a {
+    color: white;
+    text-decoration: none;
+    border: 1px solid black;
+  }
+  .position{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
