@@ -5,8 +5,17 @@
     list-style: none;
     box-sizing: border-box;
 }
+h1{
+    font-size: 30px;
+    font-style: italic;
+    border-radius: 15px 50px 30px;
+    background: #000000;
+    width: 280px;
+    height: 40px;
+    
+}
 body{
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: oblique;
     background: linear-gradient(rgba(1,1,1,0.9), rgba(1,1,1,0.9)), url("assets/code.jpg");
     background-position: center;
     background-attachment: fixed;
@@ -54,3 +63,4 @@ a.active, a:hover{
     margin-right: auto;
     margin-top: 20px ;
 }
+
