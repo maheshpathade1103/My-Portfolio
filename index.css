@@ -7,15 +7,13 @@
 }
 h1{
     font-size: 30px;
-    font-style: italic;
-    border-radius: 15px 50px 30px;
-    background: #000000;
-    width: 280px;
-    height: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: oblique;
+    
     
 }
 body{
-    font-style: oblique;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     background: linear-gradient(rgba(1,1,1,0.9), rgba(1,1,1,0.9)), url("assets/code.jpg");
     background-position: center;
     background-attachment: fixed;
@@ -62,5 +60,13 @@ a.active, a:hover{
     margin-left: auto;
     margin-right: auto;
     margin-top: 20px ;
+}
+.name{
+    margin-left: auto;
+    margin-right: auto ;
+    border-radius: 15px 50px 30px;
+    font-weight: 100;
+    width: 280px;
+    height: 40px;
 }
 
