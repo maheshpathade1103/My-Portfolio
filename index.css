@@ -48,6 +48,3 @@ a.active, a:hover{
     transition: .5s;
 }
 
-section{
-    background-image: url("assets\img.jpg");
-}
