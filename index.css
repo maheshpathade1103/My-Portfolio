@@ -12,6 +12,7 @@ nav{
     background-color: slategray;
     height: 80px ;
     width: 100%;
+    
 }
 
 .logo{
@@ -41,4 +42,8 @@ nav ul li a{
 a.active, a:hover{
     background: #1b9bff;
     transition: .5s;
+}
+
+section{
+    background-image: url("assets\img.jpg");
 }
