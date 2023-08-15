@@ -48,3 +48,9 @@ a.active, a:hover{
     transition: .5s;
 }
 
+.profile{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px ;
+}
