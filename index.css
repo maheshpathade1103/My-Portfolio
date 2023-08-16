@@ -73,7 +73,6 @@ a.active, a:hover{
 a {
     color: white;
     text-decoration: none;
-    border: 1px solid black;
   }
   .position{
     display: flex;
