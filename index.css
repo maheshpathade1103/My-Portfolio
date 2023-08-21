@@ -75,7 +75,21 @@ a {
     text-decoration: none;
   }
   .position{
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 15px;
+  }
+  img {
+    margin-right: 10px;
+    margin-left: 20px;
+ }
+ .img_caption {
     display: flex;
     justify-content: center;
     align-items: center;
   }
+
+  
+  
